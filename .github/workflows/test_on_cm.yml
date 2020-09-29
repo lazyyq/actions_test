@@ -1,10 +1,10 @@
-name: test/sub
+name: stable/cm-13.0-ZNH5Y+dt2w
 
 on:
   push:
-    branches: [ test/sub ]
+    branches: [ stable/cm-13.0-ZNH5Y+dt2w ]
   pull_request:
-    branches: [ test/sub ]
+    branches: [ stable/cm-13.0-ZNH5Y+dt2w ]
 
 jobs:
   build:
